@@ -1,0 +1,1 @@
+# AlkalmazottAnalizisSz1-ELTE-
