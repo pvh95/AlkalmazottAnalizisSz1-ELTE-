@@ -2,4 +2,6 @@
 
 Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
 <br>
-A feladatsorok megírása a jelenlegi 2018/2019 tavaszi félévben tartott kurzus alapján történik.
+<br>
+A projekt az NTP-NFTÖ-19-B-0026 támogatásával készült.
+
