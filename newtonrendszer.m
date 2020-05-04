@@ -5,7 +5,7 @@ function x=newtonrendszer(f,x0,maxit,TOL,fJ);
     
 numJ=nargin<5;
 if nargin<3, maxit=100; end;
-if nargin<4, TOL=1e6; end;
+if nargin<4, TOL=1e-6; end;
 
 x=x0; i=0; dx=ones(size(x0));   
 while norm(f(x))>TOL && norm(dx)>TOL && i<maxit
