@@ -6,7 +6,7 @@ if n>=9
     %% t es f 
     t = [1:n];
     f = 2*t;
-    for k = 1 : ceil(n/2)-1
+    for k = 1 : ceil(n/2) 
         f(2*k)=-f(2*k);
     end
 
