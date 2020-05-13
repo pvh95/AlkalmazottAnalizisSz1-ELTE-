@@ -4,6 +4,7 @@ format
 x = [-3 -2 0 2 3 5];
 f_x = [1 -4 4 -4 7 17];
 n = length(x);
+N = zeros(n-1, n-1); 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Tartsuk meg az eredeti kodot
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
